@@ -1,2 +1,2 @@
 # hello-world
-Per instruction
+print('Hello world. This is namyhka trying out github.')
